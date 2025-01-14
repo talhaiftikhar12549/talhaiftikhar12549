@@ -1,7 +1,6 @@
 <h1 align="center">Hello 👋, I'm Talha</h1>
 <h3 align="center">A passionate Software Engineer</h3>
-<img align="right" alt="coding" width="400" src="![image](https://github.com/user-attachments/assets/6699948f-2931-432a-82fc-80dc2165fd1d)
-" />
+<img align="right" alt="coding" width="400" src="https://github.com/user-attachments/assets/6699948f-2931-432a-82fc-80dc2165fd1d" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=talhaiftikhar12549&label=Profile%20views&color=0e75b6&style=flat" alt="talhaiftikhar12549" /> </p>
 
 - 👨‍💻 All of my projects are available at [https://talhaiftikhar.netlify.app/](https://talhaiftikhar.netlify.app/)
